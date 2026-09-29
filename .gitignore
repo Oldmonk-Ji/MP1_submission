@@ -1,0 +1,10 @@
+# Training runs / checkpoints (large, regenerable)
+runs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store

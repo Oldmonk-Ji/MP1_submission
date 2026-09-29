@@ -1,0 +1,8 @@
+{
+  "vocab": 2048,
+  "width": 128,
+  "heads": 4,
+  "depth": 4,
+  "context": 256,
+  "dropout": 0.1
+}
